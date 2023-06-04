@@ -7039,11 +7039,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renat\\OneDrive\\Desktop\\teste\\Questao5\\Questao5.csproj",
+      "projectUniqueName": "D:\\TesteMirante\\Teste\\Exercicio\\Questao5\\Questao5.csproj",
       "projectName": "Questao5",
-      "projectPath": "C:\\Users\\renat\\OneDrive\\Desktop\\teste\\Questao5\\Questao5.csproj",
+      "projectPath": "D:\\TesteMirante\\Teste\\Exercicio\\Questao5\\Questao5.csproj",
       "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renat\\OneDrive\\Desktop\\teste\\Questao5\\obj\\",
+      "outputPath": "D:\\TesteMirante\\Teste\\Exercicio\\Questao5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
